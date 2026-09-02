@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "pg-1",
+    "path": "/home",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "Kids Party Entertainment & Party Hire | Kids Party House",
+    "seoDescription": "Find kids party entertainers, face painters, magicians, soft play and jumping castle hire across Australia. Tell us about your party once and get free quotes.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-09-02T10:19:01.203Z",
+    "updatedBy": "alper",
+    "createdAt": "2026-09-02T10:19:01.203Z",
+    "createdBy": "alper"
+  }
+]
