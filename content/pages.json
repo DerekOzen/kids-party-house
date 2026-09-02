@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Kids Party Entertainment & Party Hire | Kids Party House",
@@ -9,10 +9,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-09-02T10:19:01.203Z",
+    "status": "published",
+    "updatedAt": "2026-09-02T10:19:18.290Z",
     "updatedBy": "alper",
     "createdAt": "2026-09-02T10:19:01.203Z",
-    "createdBy": "alper"
+    "createdBy": "alper",
+    "isHome": true
   }
 ]
