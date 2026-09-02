@@ -9,12 +9,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-09-02T10:09:55.982Z",
-    "updatedBy": "alper",
+    "status": "deleted",
+    "updatedAt": "2026-09-02T10:16:12.139Z",
+    "updatedBy": "derek",
     "createdAt": "2026-09-02T10:09:35.883Z",
     "createdBy": "alper",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-2",
