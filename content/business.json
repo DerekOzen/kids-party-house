@@ -1,6 +1,9 @@
 {
   "name": "Kids Party House",
-  "email": "Mia@myeventmatch.com",
-  "suburb": "sydney ",
-  "state": "nsw"
+  "email": "mia@myeventmatch.com",
+  "suburb": "",
+  "state": "",
+  "legalName": "Kids Party House",
+  "country": "AU",
+  "areaServed": "Australia"
 }
