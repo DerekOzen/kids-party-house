@@ -10,8 +10,8 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-09-02T10:19:24.558Z",
-    "updatedBy": "alper",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-09-02T10:19:01.203Z",
     "createdBy": "alper",
     "isHome": true
@@ -27,8 +27,8 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-09-02T12:14:59.101Z",
-    "updatedBy": "alper",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-09-02T10:20:11.507Z",
     "createdBy": "alper",
     "noindex": true
@@ -41,12 +41,12 @@
     "seoTitle": "Page Not Found | Kids Party House",
     "seoDescription": "The page you are looking for could not be found. Browse kids party entertainment, party hire, party types and locations across Australia.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -57,12 +57,12 @@
     "seoTitle": "About Kids Party House | Kids Party Entertainment",
     "seoDescription": "Kids Party House helps Australian families find children's party entertainers and party hire. Learn how the platform works and why it exists.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -73,12 +73,12 @@
     "seoTitle": "Mobile Petting Zoo & Animal Parties | Kids Party House",
     "seoDescription": "Book a mobile petting zoo, animal farm party or reptile party in Australia. Handlers bring the animals to you. Send one brief and compare free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -89,12 +89,12 @@
     "seoTitle": "Balloon Twisters for Kids Parties | Kids Party House",
     "seoDescription": "Book a balloon twister or balloon artist for a children's party in Australia. Fast, queue friendly balloon models for every child. Compare free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -105,12 +105,12 @@
     "seoTitle": "Ball Pit Hire for Kids Parties | Kids Party House",
     "seoDescription": "Hire a ball pit for a kids party or first birthday in Australia. Sanitised pastel and rainbow ball pits, delivered and set up. Compare free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -121,12 +121,12 @@
     "seoTitle": "Character Entertainers & Mascot Hire | Kids Party House",
     "seoDescription": "Book costumed character entertainers and mascot hire for children's parties in Australia. Characters who arrive in role and stay in role. Compare free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -137,12 +137,12 @@
     "seoTitle": "Contact Kids Party House | Kids Party Entertainment",
     "seoDescription": "Contact Kids Party House with general enquiries, platform questions or supplier enquiries. For party quotes, use the get quotes form.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -153,12 +153,12 @@
     "seoTitle": "Corporate Kids Event Entertainment | Kids Party House",
     "seoDescription": "Book children's entertainment for corporate family days, staff Christmas parties and store openings in Australia. A kids zone that runs itself. Compare free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -169,12 +169,12 @@
     "seoTitle": "Disclaimer | Kids Party House",
     "seoDescription": "Important information about the Kids Party House platform, the suppliers listed and the general guidance published on this site.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -185,12 +185,12 @@
     "seoTitle": "Face Painters for Kids Parties | Kids Party House",
     "seoDescription": "Book a face painter for a kids party anywhere in Australia. Skin safe paints, glitter tattoos and queue friendly designs. Send one brief and compare free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -201,12 +201,12 @@
     "seoTitle": "Family Fun Day Entertainment Hire | Kids Party House",
     "seoDescription": "Plan a family fun day, community day or club event in Australia. Activity stations, inflatables and carnival games for rolling crowds. Compare free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -217,12 +217,12 @@
     "seoTitle": "1st Birthday Party Ideas Australia | Kids Party House",
     "seoDescription": "Plan a first birthday party in Australia. What actually works for one year olds, when to hold it and what to hire. Compare free quotes from local suppliers.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -233,12 +233,12 @@
     "seoTitle": "Get Free Kids Party Quotes Australia | Kids Party House",
     "seoDescription": "Get free quotes for kids party entertainers, face painters, soft play and party hire across Australia. One brief, no obligation, free for parents.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -249,12 +249,12 @@
     "seoTitle": "Kids Party Entertainment & Hire Australia | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, magicians, soft play and jumping castle hire across Australia. Tell us about your party once and get free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -265,12 +265,12 @@
     "seoTitle": "Inflatable & Water Slide Hire | Kids Party House",
     "seoDescription": "Hire inflatables for kids parties and school events in Australia. Water slides, obstacle courses and giant slides for older children. Compare free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -281,12 +281,12 @@
     "seoTitle": "Jumping Castle Hire for Kids Parties | Kids Party House",
     "seoDescription": "Compare jumping castle hire for kids parties in Australia. Themed castles, combos and slides sized for your yard, with safety and anchoring advice. Get free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -297,12 +297,12 @@
     "seoTitle": "Kids Birthday Party Entertainment | Kids Party House",
     "seoDescription": "Plan a kids birthday party in Australia. What to book by age, how long it should run and what it costs. Compare free quotes from entertainers and hire suppliers.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -313,12 +313,12 @@
     "seoTitle": "Kids DJs & Disco Party Hire | Kids Party House",
     "seoDescription": "Book a kids DJ or a children's disco party in Australia. Age appropriate playlists, lights and dance games for ages six and up. Compare free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -329,12 +329,12 @@
     "seoTitle": "Kids Magicians & Magic Shows | Kids Party House",
     "seoDescription": "Book a kids magician for a birthday party or school event in Australia. Comedy magic shows written for children. Send one brief and compare free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -345,12 +345,12 @@
     "seoTitle": "Kids Party Entertainers Australia | Kids Party House",
     "seoDescription": "Find kids party entertainers and children's entertainers across Australia. One brief, quotes from entertainers who cover your suburb and are free on your date.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -361,12 +361,12 @@
     "seoTitle": "Kids Party Games & Giant Games Hire | Kids Party House",
     "seoDescription": "Hire kids party games and giant garden games in Australia. Carnival stalls, prize activities and nerf setups for parties and fun days. Compare free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -377,12 +377,12 @@
     "seoTitle": "Kids Party Equipment Hire Australia | Kids Party House",
     "seoDescription": "Hire kids party equipment in Australia. Fairy floss and popcorn machines, kids tables and chairs, teepee sleepover setups and party extras. Compare free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -393,12 +393,12 @@
     "seoTitle": "Kids Party Hosts & Coordinators | Kids Party House",
     "seoDescription": "Hire a kids party host to run your child's party from arrival to pack down. Schedule, games, cake and guests handled. Compare free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -409,12 +409,12 @@
     "seoTitle": "Kids Party Hire Locations Australia | Kids Party House",
     "seoDescription": "Find kids party entertainers and party hire across NSW, VIC, QLD and WA. Forty areas covered. One brief, free quotes from suppliers who service your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -425,12 +425,12 @@
     "seoTitle": "Kids Party Hire Blacktown | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Blacktown. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -441,12 +441,12 @@
     "seoTitle": "Kids Party Hire Campbelltown | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Campbelltown. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -457,12 +457,12 @@
     "seoTitle": "Kids Party Hire Canterbury-Bankstown | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Canterbury-Bankstown. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -473,12 +473,12 @@
     "seoTitle": "Kids Party Hire Central Coast | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Central Coast. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -489,12 +489,12 @@
     "seoTitle": "Kids Party Hire Hornsby | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Hornsby. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -505,12 +505,12 @@
     "seoTitle": "Kids Party Hire Liverpool | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Liverpool. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -521,12 +521,12 @@
     "seoTitle": "Kids Party Hire Newcastle | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Newcastle. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -537,12 +537,12 @@
     "seoTitle": "Kids Party Hire Northern Beaches | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Northern Beaches. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -553,12 +553,12 @@
     "seoTitle": "Kids Party Hire Parramatta | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Parramatta. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -569,12 +569,12 @@
     "seoTitle": "Kids Party Hire Penrith | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Penrith. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -585,12 +585,12 @@
     "seoTitle": "Kids Party Hire Sutherland Shire | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Sutherland Shire. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -601,12 +601,12 @@
     "seoTitle": "Kids Party Hire Sydney | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Sydney. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -617,12 +617,12 @@
     "seoTitle": "Kids Party Hire Wollongong | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Wollongong. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -633,12 +633,12 @@
     "seoTitle": "Kids Party Hire in New South Wales | Kids Party House",
     "seoDescription": "Find kids party entertainers, soft play and party hire across New South Wales. 13 areas covered. One brief, free quotes from suppliers near you.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -649,12 +649,12 @@
     "seoTitle": "Kids Party Hire Brisbane | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Brisbane. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -665,12 +665,12 @@
     "seoTitle": "Kids Party Hire Gold Coast | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Gold Coast. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-2",
+    "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "draft",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:10:50.893Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -681,12 +681,12 @@
     "seoTitle": "Kids Party Hire Ipswich | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Ipswich. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -697,12 +697,12 @@
     "seoTitle": "Kids Party Hire Logan | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Logan. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -713,12 +713,12 @@
     "seoTitle": "Kids Party Hire Moreton Bay | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Moreton Bay. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -729,12 +729,12 @@
     "seoTitle": "Kids Party Hire Redlands | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Redlands. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -745,12 +745,12 @@
     "seoTitle": "Kids Party Hire Sunshine Coast | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Sunshine Coast. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -761,12 +761,12 @@
     "seoTitle": "Kids Party Hire Toowoomba | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Toowoomba. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -777,12 +777,12 @@
     "seoTitle": "Kids Party Hire in Queensland | Kids Party House",
     "seoDescription": "Find kids party entertainers, soft play and party hire across Queensland. 8 areas covered. One brief, free quotes from suppliers near you.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -793,12 +793,12 @@
     "seoTitle": "Kids Party Hire Brimbank | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Brimbank. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -809,12 +809,12 @@
     "seoTitle": "Kids Party Hire Casey | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Casey. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -825,12 +825,12 @@
     "seoTitle": "Kids Party Hire Geelong | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Geelong. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -841,12 +841,12 @@
     "seoTitle": "Kids Party Hire Greater Dandenong | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Greater Dandenong. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -857,12 +857,12 @@
     "seoTitle": "Kids Party Hire Hume | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Hume. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -873,12 +873,12 @@
     "seoTitle": "Kids Party Hire Melbourne | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Melbourne. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -889,12 +889,12 @@
     "seoTitle": "Kids Party Hire Monash | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Monash. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -905,12 +905,12 @@
     "seoTitle": "Kids Party Hire Mornington Peninsula | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Mornington Peninsula. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -921,12 +921,12 @@
     "seoTitle": "Kids Party Hire Whittlesea | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Whittlesea. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -937,12 +937,12 @@
     "seoTitle": "Kids Party Hire Wyndham | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Wyndham. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -953,12 +953,12 @@
     "seoTitle": "Kids Party Hire in Victoria | Kids Party House",
     "seoDescription": "Find kids party entertainers, soft play and party hire across Victoria. 10 areas covered. One brief, free quotes from suppliers near you.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -969,12 +969,12 @@
     "seoTitle": "Kids Party Hire Canning | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Canning. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -985,12 +985,12 @@
     "seoTitle": "Kids Party Hire Cockburn | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Cockburn. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1001,12 +1001,12 @@
     "seoTitle": "Kids Party Hire Joondalup | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Joondalup. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1017,12 +1017,12 @@
     "seoTitle": "Kids Party Hire Mandurah | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Mandurah. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1033,12 +1033,12 @@
     "seoTitle": "Kids Party Hire Perth | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Perth. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1049,12 +1049,12 @@
     "seoTitle": "Kids Party Hire Rockingham | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Rockingham. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1065,12 +1065,12 @@
     "seoTitle": "Kids Party Hire Stirling | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Stirling. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1081,12 +1081,12 @@
     "seoTitle": "Kids Party Hire Swan | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Swan. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1097,12 +1097,12 @@
     "seoTitle": "Kids Party Hire Wanneroo | Kids Party House",
     "seoDescription": "Find kids party entertainers, face painters, soft play and jumping castle hire in Wanneroo. One brief, free quotes from suppliers who cover your suburb.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1113,12 +1113,12 @@
     "seoTitle": "Kids Party Hire in Western Australia | Kids Party House",
     "seoDescription": "Find kids party entertainers, soft play and party hire across Western Australia. 9 areas covered. One brief, free quotes from suppliers near you.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1129,12 +1129,12 @@
     "seoTitle": "Kids Party Entertainment Australia | Kids Party House",
     "seoDescription": "Compare kids party entertainment across Australia. Entertainers, face painters, balloon twisters, magicians, characters, DJs and animal parties. Get free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1145,12 +1145,12 @@
     "seoTitle": "Kids Party Entertainment by Age | Kids Party House",
     "seoDescription": "What kids party entertainment suits each age from one to twelve. Attention spans, party lengths and what to skip. Free planning guide from Kids Party House.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1161,12 +1161,12 @@
     "seoTitle": "Kids Party Cost Guide Australia | Kids Party House",
     "seoDescription": "What a kids party costs in Australia. How entertainers, face painters and party hire are priced, and the six factors that move the number. Free planning guide.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1177,12 +1177,12 @@
     "seoTitle": "Kids Party Ideas & Planning Guides | Kids Party House",
     "seoDescription": "Practical kids party planning guides for Australian parents. Costs, age suitability, safety, space and setup. Free advice before you book.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1193,12 +1193,12 @@
     "seoTitle": "Jumping Castle Safety & Setup Guide | Kids Party House",
     "seoDescription": "What to check on insurance, council permits, space, power and supervision before you book party hire in Australia. Free safety and setup guide for parents.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1209,12 +1209,12 @@
     "seoTitle": "Kids Party Types & Event Ideas | Kids Party House",
     "seoDescription": "Plan a kids birthday party, first birthday, toddler party, school event or family fun day in Australia. Compare free quotes from local suppliers.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1225,12 +1225,12 @@
     "seoTitle": "Kids Play & Party Hire Australia | Kids Party House",
     "seoDescription": "Compare kids party hire across Australia. Soft play, jumping castles, inflatables, ball pits, toddler play, games and party equipment. One brief, free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1241,12 +1241,12 @@
     "seoTitle": "Princess & Superhero Parties | Kids Party House",
     "seoDescription": "Book princess parties, superhero parties and themed character entertainment for children in Australia. Packages built around one favourite. Free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1257,12 +1257,12 @@
     "seoTitle": "Privacy Policy | Kids Party House",
     "seoDescription": "How Kids Party House collects, uses and protects the personal information you provide when you request kids party quotes.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1273,12 +1273,12 @@
     "seoTitle": "School & Preschool Entertainment | Kids Party House",
     "seoDescription": "Book entertainment for school and preschool events in Australia. Incursions, fetes, end of year celebrations and fun days, with the paperwork schools require.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1289,12 +1289,12 @@
     "seoTitle": "Soft Play Hire for Kids Parties | Kids Party House",
     "seoDescription": "Hire soft play equipment for a kids party anywhere in Australia. Padded blocks, mini slides, ball pits and fencing, delivered and set up. Compare free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": "header-1",
     "footerPartId": "footer-3",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:14.614Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1305,12 +1305,12 @@
     "seoTitle": "Terms of Use | Kids Party House",
     "seoDescription": "The terms that apply when you use the Kids Party House website and quote matching service.",
     "layout": "mockup",
-    "headerPartId": "header-4",
+    "headerPartId": "header-1",
     "footerPartId": "footer-4",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:46.915Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:46.915Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1321,12 +1321,12 @@
     "seoTitle": "Thank You, Your Party Brief Is In | Kids Party House",
     "seoDescription": "Thanks for sending your party brief to Kids Party House. We are matching you with kids party entertainers and play hire suppliers in your area.",
     "layout": "mockup",
-    "headerPartId": "header-4",
+    "headerPartId": "header-1",
     "footerPartId": "footer-4",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:46.915Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:46.915Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1337,12 +1337,12 @@
     "seoTitle": "Toddler Birthday Party Ideas | Kids Party House",
     "seoDescription": "Plan a toddler birthday party for two and three year olds in Australia. What holds their attention, how long to run it and what to hire. Compare free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-4",
+    "headerPartId": "header-1",
     "footerPartId": "footer-4",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:46.915Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:46.915Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   },
   {
@@ -1353,12 +1353,12 @@
     "seoTitle": "Toddler Play Hire Australia | Kids Party House",
     "seoDescription": "Hire toddler play equipment for a party in Australia. Small scale play sets, tunnels and sensory equipment for ones and twos. Send one brief and compare free quotes.",
     "layout": "mockup",
-    "headerPartId": "header-4",
+    "headerPartId": "header-1",
     "footerPartId": "footer-4",
     "status": "draft",
     "createdAt": "2026-09-04T02:12:46.915Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:12:46.915Z",
+    "updatedAt": "2026-09-04T02:13:18.024Z",
     "updatedBy": "joshua"
   }
 ]
