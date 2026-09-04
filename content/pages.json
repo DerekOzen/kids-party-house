@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/",
+    "path": "/home",
     "type": "page",
     "title": "Home",
     "seoTitle": "Kids Party Entertainment & Party Hire | Kids Party House",
@@ -10,11 +10,11 @@
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
     "status": "published",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
+    "updatedAt": "2026-09-04T02:36:40.591Z",
     "updatedBy": "joshua",
     "createdAt": "2026-09-02T10:19:01.203Z",
     "createdBy": "alper",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-2",
@@ -1363,7 +1363,7 @@
   },
   {
     "id": "pg-86",
-    "path": "/home123",
+    "path": "/",
     "type": "page",
     "title": "Home123",
     "seoTitle": "Kids Party Entertainment & Hire Australia | Kids Party House",
@@ -1372,9 +1372,10 @@
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
     "status": "published",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
+    "updatedAt": "2026-09-04T02:36:40.591Z",
     "updatedBy": "joshua",
     "createdAt": "2026-09-04T02:25:55.243Z",
-    "createdBy": "joshua"
+    "createdBy": "joshua",
+    "isHome": true
   }
 ]
