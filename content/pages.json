@@ -1299,7 +1299,7 @@
   },
   {
     "id": "pg-82",
-    "path": "/kids-party-house-terms-mockup-v1",
+    "path": "/terms",
     "type": "page",
     "title": "Terms of Use | Kids Party House",
     "seoTitle": "Terms of Use | Kids Party House",
@@ -1307,11 +1307,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:12:46.915Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-04T21:03:46.520Z",
+    "updatedBy": "derek"
   },
   {
     "id": "pg-83",
