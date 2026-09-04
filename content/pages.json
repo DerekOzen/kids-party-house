@@ -1251,7 +1251,7 @@
   },
   {
     "id": "pg-79",
-    "path": "/kids-party-house-privacy-policy-mockup-v1",
+    "path": "/privacy-policy",
     "type": "page",
     "title": "Privacy Policy | Kids Party House",
     "seoTitle": "Privacy Policy | Kids Party House",
@@ -1259,11 +1259,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-04T07:40:36.713Z",
+    "updatedBy": "derek"
   },
   {
     "id": "pg-80",
