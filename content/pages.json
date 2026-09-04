@@ -1360,5 +1360,21 @@
     "createdBy": "joshua",
     "updatedAt": "2026-09-04T02:13:39.036Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-86",
+    "path": "/home123",
+    "type": "page",
+    "title": "Home123",
+    "seoTitle": "Kids Party Entertainment & Hire Australia | Kids Party House",
+    "seoDescription": "Find kids party entertainers, face painters, magicians, soft play and jumping castle hire across Australia. Tell us about your party once and get free quotes.",
+    "layout": "mockup",
+    "headerPartId": "header-5",
+    "footerPartId": "footer-5",
+    "status": "draft",
+    "updatedAt": "2026-09-04T02:25:55.243Z",
+    "updatedBy": "joshua",
+    "createdAt": "2026-09-04T02:25:55.243Z",
+    "createdBy": "joshua"
   }
 ]
