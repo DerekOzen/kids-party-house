@@ -67,7 +67,7 @@
   },
   {
     "id": "pg-5",
-    "path": "/kids-party-house-animal-petting-zoo-parties-mockup-v1",
+    "path": "/animal-petting-zoo-parties",
     "type": "page",
     "title": "Mobile Petting Zoo & Animal Parties | Kids Party House",
     "seoTitle": "Mobile Petting Zoo & Animal Parties | Kids Party House",
@@ -75,11 +75,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-04T07:42:59.438Z",
+    "updatedBy": "derek"
   },
   {
     "id": "pg-6",
