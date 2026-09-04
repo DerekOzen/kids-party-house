@@ -51,7 +51,7 @@
   },
   {
     "id": "pg-4",
-    "path": "/kids-party-house-about-us-mockup-v1",
+    "path": "/about-us",
     "type": "page",
     "title": "About Kids Party House | Kids Party Entertainment",
     "seoTitle": "About Kids Party House | Kids Party Entertainment",
@@ -59,11 +59,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-04T07:43:55.491Z",
+    "updatedBy": "derek"
   },
   {
     "id": "pg-5",
