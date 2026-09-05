@@ -1331,7 +1331,7 @@
   },
   {
     "id": "pg-84",
-    "path": "/kids-party-house-toddler-birthday-parties-mockup-v1",
+    "path": "/toddler-birthday-parties",
     "type": "page",
     "title": "Toddler Birthday Party Ideas | Kids Party House",
     "seoTitle": "Toddler Birthday Party Ideas | Kids Party House",
@@ -1339,11 +1339,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:12:46.915Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:24:37.999Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-85",
