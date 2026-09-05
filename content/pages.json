@@ -1075,7 +1075,7 @@
   },
   {
     "id": "pg-68",
-    "path": "/kids-party-house-locations-wa-kids-party-hire-swan-mockup-v1",
+    "path": "/locations-wa-kids-party-hire-swan",
     "type": "page",
     "title": "Kids Party Hire Swan | Kids Party House",
     "seoTitle": "Kids Party Hire Swan | Kids Party House",
@@ -1083,11 +1083,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:18:48.869Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-69",
