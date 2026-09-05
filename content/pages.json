@@ -211,7 +211,7 @@
   },
   {
     "id": "pg-14",
-    "path": "/kids-party-house-first-birthday-parties-mockup-v1",
+    "path": "/first-birthday-parties",
     "type": "page",
     "title": "1st Birthday Party Ideas Australia | Kids Party House",
     "seoTitle": "1st Birthday Party Ideas Australia | Kids Party House",
@@ -219,11 +219,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:00:44.758Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-15",
