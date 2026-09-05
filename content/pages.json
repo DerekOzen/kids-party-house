@@ -707,7 +707,7 @@
   },
   {
     "id": "pg-45",
-    "path": "/kids-party-house-locations-qld-kids-party-hire-moreton-bay-mockup-v1",
+    "path": "/locations-qld-kids-party-hire-moreton-bay",
     "type": "page",
     "title": "Kids Party Hire Moreton Bay | Kids Party House",
     "seoTitle": "Kids Party Hire Moreton Bay | Kids Party House",
@@ -715,11 +715,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:12:02.529Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-46",
