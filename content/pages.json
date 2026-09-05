@@ -451,7 +451,7 @@
   },
   {
     "id": "pg-29",
-    "path": "/kids-party-house-locations-nsw-kids-party-hire-canterbury-bankstown-mockup-v1",
+    "path": "/locations-nsw-kids-party-hire-canterbury-bankstown",
     "type": "page",
     "title": "Kids Party Hire Canterbury-Bankstown | Kids Party House",
     "seoTitle": "Kids Party Hire Canterbury-Bankstown | Kids Party House",
@@ -459,11 +459,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:05:15.078Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-30",
