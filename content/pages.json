@@ -1107,7 +1107,7 @@
   },
   {
     "id": "pg-70",
-    "path": "/kids-party-house-locations-wa-mockup-v1",
+    "path": "/locations-wa",
     "type": "page",
     "title": "Kids Party Hire in Western Australia | Kids Party House",
     "seoTitle": "Kids Party Hire in Western Australia | Kids Party House",
@@ -1115,11 +1115,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:22:13.231Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-71",
