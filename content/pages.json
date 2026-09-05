@@ -1235,7 +1235,7 @@
   },
   {
     "id": "pg-78",
-    "path": "/kids-party-house-princess-superhero-parties-mockup-v1",
+    "path": "/princess-superhero-parties",
     "type": "page",
     "title": "Princess & Superhero Parties | Kids Party House",
     "seoTitle": "Princess & Superhero Parties | Kids Party House",
@@ -1243,11 +1243,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:23:20.018Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-79",
