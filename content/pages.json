@@ -675,7 +675,7 @@
   },
   {
     "id": "pg-43",
-    "path": "/kids-party-house-locations-qld-kids-party-hire-ipswich-mockup-v1",
+    "path": "/locations-qld-kids-party-hire-ipswich",
     "type": "page",
     "title": "Kids Party Hire Ipswich | Kids Party House",
     "seoTitle": "Kids Party Hire Ipswich | Kids Party House",
@@ -683,11 +683,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:11:43.189Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-44",
