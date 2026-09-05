@@ -1091,7 +1091,7 @@
   },
   {
     "id": "pg-69",
-    "path": "/kids-party-house-locations-wa-kids-party-hire-wanneroo-mockup-v1",
+    "path": "/locations-wa-kids-party-hire-wanneroo",
     "type": "page",
     "title": "Kids Party Hire Wanneroo | Kids Party House",
     "seoTitle": "Kids Party Hire Wanneroo | Kids Party House",
@@ -1099,11 +1099,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:20:40.720Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-70",
