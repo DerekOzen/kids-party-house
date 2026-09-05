@@ -243,7 +243,7 @@
   },
   {
     "id": "pg-16",
-    "path": "/kids-party-house-home-mockup-v1",
+    "path": "/home",
     "type": "page",
     "title": "Kids Party Entertainment & Hire Australia | Kids Party House",
     "seoTitle": "Kids Party Entertainment & Hire Australia | Kids Party House",
@@ -251,11 +251,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:06:56.311Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-17",
