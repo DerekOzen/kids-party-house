@@ -291,7 +291,7 @@
   },
   {
     "id": "pg-19",
-    "path": "/kids-party-house-kids-birthday-parties-mockup-v1",
+    "path": "/kids-birthday-parties",
     "type": "page",
     "title": "Kids Birthday Party Entertainment | Kids Party House",
     "seoTitle": "Kids Birthday Party Entertainment | Kids Party House",
@@ -299,11 +299,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:02:11.841Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-20",
