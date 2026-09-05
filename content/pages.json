@@ -435,7 +435,7 @@
   },
   {
     "id": "pg-28",
-    "path": "/kids-party-house-locations-nsw-kids-party-hire-campbelltown-mockup-v1",
+    "path": "/locations-nsw-kids-party-hire-campbelltown",
     "type": "page",
     "title": "Kids Party Hire Campbelltown | Kids Party House",
     "seoTitle": "Kids Party Hire Campbelltown | Kids Party House",
@@ -443,11 +443,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:04:52.354Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-29",
