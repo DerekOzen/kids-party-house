@@ -963,7 +963,7 @@
   },
   {
     "id": "pg-61",
-    "path": "/kids-party-house-locations-wa-kids-party-hire-canning-mockup-v1",
+    "path": "/locations-wa-kids-party-hire-canning",
     "type": "page",
     "title": "Kids Party Hire Canning | Kids Party House",
     "seoTitle": "Kids Party Hire Canning | Kids Party House",
@@ -971,11 +971,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:17:50.200Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-62",
