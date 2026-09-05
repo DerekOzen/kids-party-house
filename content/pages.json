@@ -419,7 +419,7 @@
   },
   {
     "id": "pg-27",
-    "path": "/kids-party-house-locations-nsw-kids-party-hire-blacktown-mockup-v1",
+    "path": "/locations-nsw-kids-party-hire-blacktown",
     "type": "page",
     "title": "Kids Party Hire Blacktown | Kids Party House",
     "seoTitle": "Kids Party Hire Blacktown | Kids Party House",
@@ -427,11 +427,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:04:57.488Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-28",
