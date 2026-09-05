@@ -1203,7 +1203,7 @@
   },
   {
     "id": "pg-76",
-    "path": "/kids-party-house-party-types-mockup-v1",
+    "path": "/party-types",
     "type": "page",
     "title": "Kids Party Types & Event Ideas | Kids Party House",
     "seoTitle": "Kids Party Types & Event Ideas | Kids Party House",
@@ -1211,11 +1211,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:23:02.884Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-77",
