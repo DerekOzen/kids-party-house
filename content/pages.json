@@ -1219,7 +1219,7 @@
   },
   {
     "id": "pg-77",
-    "path": "/kids-party-house-play-party-hire-mockup-v1",
+    "path": "/play-party-hire",
     "type": "page",
     "title": "Kids Play & Party Hire Australia | Kids Party House",
     "seoTitle": "Kids Play & Party Hire Australia | Kids Party House",
@@ -1227,11 +1227,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:23:10.826Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-78",
