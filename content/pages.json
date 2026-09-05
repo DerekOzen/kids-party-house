@@ -131,7 +131,7 @@
   },
   {
     "id": "pg-9",
-    "path": "/kids-party-house-contact-us-mockup-v1",
+    "path": "/contact-us",
     "type": "page",
     "title": "Contact Kids Party House | Kids Party Entertainment",
     "seoTitle": "Contact Kids Party House | Kids Party Entertainment",
@@ -139,11 +139,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T00:59:17.183Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-10",
