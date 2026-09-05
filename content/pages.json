@@ -179,7 +179,7 @@
   },
   {
     "id": "pg-12",
-    "path": "/kids-party-house-face-painters-mockup-v1",
+    "path": "/face-painters",
     "type": "page",
     "title": "Face Painters for Kids Parties | Kids Party House",
     "seoTitle": "Face Painters for Kids Parties | Kids Party House",
@@ -187,11 +187,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T00:59:40.980Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-13",
