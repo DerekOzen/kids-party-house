@@ -195,7 +195,7 @@
   },
   {
     "id": "pg-13",
-    "path": "/kids-party-house-family-fun-days-mockup-v1",
+    "path": "/family-fun-days",
     "type": "page",
     "title": "Family Fun Day Entertainment Hire | Kids Party House",
     "seoTitle": "Family Fun Day Entertainment Hire | Kids Party House",
@@ -203,11 +203,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:00:35.003Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-14",
