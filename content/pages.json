@@ -115,7 +115,7 @@
   },
   {
     "id": "pg-8",
-    "path": "/kids-party-house-character-entertainers-mockup-v1",
+    "path": "/character-entertainers",
     "type": "page",
     "title": "Character Entertainers & Mascot Hire | Kids Party House",
     "seoTitle": "Character Entertainers & Mascot Hire | Kids Party House",
@@ -123,11 +123,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T00:59:05.901Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-9",
