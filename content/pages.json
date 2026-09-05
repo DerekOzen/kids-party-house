@@ -851,7 +851,7 @@
   },
   {
     "id": "pg-54",
-    "path": "/kids-party-house-locations-vic-kids-party-hire-hume-mockup-v1",
+    "path": "/locations-vic-kids-party-hire-hume",
     "type": "page",
     "title": "Kids Party Hire Hume | Kids Party House",
     "seoTitle": "Kids Party Hire Hume | Kids Party House",
@@ -859,11 +859,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:14:22.402Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-55",
