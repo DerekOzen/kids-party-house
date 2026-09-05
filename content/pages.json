@@ -339,7 +339,7 @@
   },
   {
     "id": "pg-22",
-    "path": "/kids-party-house-kids-party-entertainers-mockup-v1",
+    "path": "/kids-party-entertainers",
     "type": "page",
     "title": "Kids Party Entertainers Australia | Kids Party House",
     "seoTitle": "Kids Party Entertainers Australia | Kids Party House",
@@ -347,11 +347,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:03:36.740Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-23",
