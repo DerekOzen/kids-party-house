@@ -787,7 +787,7 @@
   },
   {
     "id": "pg-50",
-    "path": "/kids-party-house-locations-vic-kids-party-hire-brimbank-mockup-v1",
+    "path": "/locations-vic-kids-party-hire-brimbank",
     "type": "page",
     "title": "Kids Party Hire Brimbank | Kids Party House",
     "seoTitle": "Kids Party Hire Brimbank | Kids Party House",
@@ -795,11 +795,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:13:49.663Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-51",
