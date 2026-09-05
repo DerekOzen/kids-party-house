@@ -819,7 +819,7 @@
   },
   {
     "id": "pg-52",
-    "path": "/kids-party-house-locations-vic-kids-party-hire-geelong-mockup-v1",
+    "path": "/locations-vic-kids-party-hire-geelong",
     "type": "page",
     "title": "Kids Party Hire Geelong | Kids Party House",
     "seoTitle": "Kids Party Hire Geelong | Kids Party House",
@@ -827,11 +827,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:14:02.257Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-53",
