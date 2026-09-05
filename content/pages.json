@@ -227,7 +227,7 @@
   },
   {
     "id": "pg-15",
-    "path": "/kids-party-house-get-quotes-mockup-v1",
+    "path": "/get-quotes",
     "type": "page",
     "title": "Get Free Kids Party Quotes Australia | Kids Party House",
     "seoTitle": "Get Free Kids Party Quotes Australia | Kids Party House",
@@ -235,11 +235,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:00:59.989Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-16",
