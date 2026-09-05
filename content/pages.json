@@ -1139,7 +1139,7 @@
   },
   {
     "id": "pg-72",
-    "path": "/kids-party-house-party-ideas-guides-age-suitability-mockup-v1",
+    "path": "/party-ideas-guides-age-suitability",
     "type": "page",
     "title": "Kids Party Entertainment by Age | Kids Party House",
     "seoTitle": "Kids Party Entertainment by Age | Kids Party House",
@@ -1147,11 +1147,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:22:36.940Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-73",
