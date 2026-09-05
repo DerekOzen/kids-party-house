@@ -723,7 +723,7 @@
   },
   {
     "id": "pg-46",
-    "path": "/kids-party-house-locations-qld-kids-party-hire-redlands-mockup-v1",
+    "path": "/locations-qld-kids-party-hire-redlands",
     "type": "page",
     "title": "Kids Party Hire Redlands | Kids Party House",
     "seoTitle": "Kids Party Hire Redlands | Kids Party House",
@@ -731,11 +731,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:12:09.163Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-47",
