@@ -1347,7 +1347,7 @@
   },
   {
     "id": "pg-85",
-    "path": "/kids-party-house-toddler-play-hire-mockup-v1",
+    "path": "/toddler-play-hire",
     "type": "page",
     "title": "Toddler Play Hire Australia | Kids Party House",
     "seoTitle": "Toddler Play Hire Australia | Kids Party House",
@@ -1355,11 +1355,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:12:46.915Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T01:24:44.558Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-86",
