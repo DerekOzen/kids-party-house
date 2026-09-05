@@ -147,7 +147,7 @@
   },
   {
     "id": "pg-10",
-    "path": "/kids-party-house-corporate-kids-events-mockup-v1",
+    "path": "/corporate-kids-events",
     "type": "page",
     "title": "Corporate Kids Event Entertainment | Kids Party House",
     "seoTitle": "Corporate Kids Event Entertainment | Kids Party House",
@@ -155,11 +155,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-05T00:59:34.955Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-11",
