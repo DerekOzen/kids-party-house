@@ -913,7 +913,7 @@
   },
   {
     "id": "pg-56",
-    "path": "/locations-vic-kids-party-hire-monash",
+    "path": "/locations/vic/kids-party-hire-monash",
     "type": "page",
     "title": "Kids Party Hire Monash | Kids Party House",
     "seoTitle": "Kids Party Hire Monash | Kids Party House",
@@ -924,7 +924,7 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-07T01:46:23.668Z",
+    "updatedAt": "2026-09-07T04:43:26.287Z",
     "updatedBy": "alper",
     "category": "Locations"
   },
