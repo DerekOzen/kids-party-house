@@ -981,7 +981,7 @@
   },
   {
     "id": "pg-60",
-    "path": "/locations-vic",
+    "path": "/locations/vic",
     "type": "page",
     "title": "Kids Party Hire in Victoria | Kids Party House",
     "seoTitle": "Kids Party Hire in Victoria | Kids Party House",
@@ -992,7 +992,7 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-07T01:46:38.624Z",
+    "updatedAt": "2026-09-07T04:45:07.134Z",
     "updatedBy": "alper",
     "category": "Locations"
   },
