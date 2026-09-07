@@ -1049,7 +1049,7 @@
   },
   {
     "id": "pg-64",
-    "path": "/locations-wa-kids-party-hire-mandurah",
+    "path": "/locations/wa/kids-party-hire-mandurah",
     "type": "page",
     "title": "Kids Party Hire Mandurah | Kids Party House",
     "seoTitle": "Kids Party Hire Mandurah | Kids Party House",
@@ -1060,7 +1060,7 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-07T01:52:31.860Z",
+    "updatedAt": "2026-09-07T04:45:35.642Z",
     "updatedBy": "alper",
     "category": "Locations"
   },
