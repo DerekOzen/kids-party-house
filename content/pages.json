@@ -1083,7 +1083,7 @@
   },
   {
     "id": "pg-66",
-    "path": "/locations-wa-kids-party-hire-rockingham",
+    "path": "/locations/wa/kids-party-hire-rockingham",
     "type": "page",
     "title": "Kids Party Hire Rockingham | Kids Party House",
     "seoTitle": "Kids Party Hire Rockingham | Kids Party House",
@@ -1094,7 +1094,7 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-07T01:52:38.200Z",
+    "updatedAt": "2026-09-07T04:45:51.258Z",
     "updatedBy": "alper",
     "category": "Locations"
   },
