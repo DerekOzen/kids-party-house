@@ -627,7 +627,7 @@
   },
   {
     "id": "pg-40",
-    "path": "/locations-nsw",
+    "path": "/locations/nsw",
     "type": "page",
     "title": "Kids Party Hire in New South Wales | Kids Party House",
     "seoTitle": "Kids Party Hire in New South Wales | Kids Party House",
@@ -638,8 +638,8 @@
     "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-05T01:11:20.336Z",
-    "updatedBy": "alper"
+    "updatedAt": "2026-09-07T01:35:19.524Z",
+    "updatedBy": "derek"
   },
   {
     "id": "pg-41",
