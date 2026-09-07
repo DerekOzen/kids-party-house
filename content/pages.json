@@ -791,7 +791,7 @@
   },
   {
     "id": "pg-49",
-    "path": "/locations-qld",
+    "path": "/locations/qld",
     "type": "page",
     "title": "Kids Party Hire in Queensland | Kids Party House",
     "seoTitle": "Kids Party Hire in Queensland | Kids Party House",
@@ -802,8 +802,9 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-05T01:12:39.247Z",
-    "updatedBy": "alper"
+    "updatedAt": "2026-09-07T01:48:41.289Z",
+    "updatedBy": "alper",
+    "category": "Locations"
   },
   {
     "id": "pg-50",
