@@ -590,7 +590,7 @@
   },
   {
     "id": "pg-37",
-    "path": "/locations-nsw-kids-party-hire-sutherland-shire",
+    "path": "/locations/nsw/kids-party-hire-sutherland-shire",
     "type": "page",
     "title": "Kids Party Hire Sutherland Shire | Kids Party House",
     "seoTitle": "Kids Party Hire Sutherland Shire | Kids Party House",
@@ -601,8 +601,8 @@
     "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-07T04:08:32.001Z",
-    "updatedBy": "mohseen",
+    "updatedAt": "2026-09-07T04:36:39.535Z",
+    "updatedBy": "alper",
     "category": "Locations"
   },
   {
