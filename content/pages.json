@@ -1360,7 +1360,7 @@
   },
   {
     "id": "pg-83",
-    "path": "/kids-party-house-thank-you-mockup-v1",
+    "path": "/kids-party-house-thank-you",
     "type": "page",
     "title": "Thank You, Your Party Brief Is In | Kids Party House",
     "seoTitle": "Thank You, Your Party Brief Is In | Kids Party House",
@@ -1368,11 +1368,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-04T02:12:46.915Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-04T02:35:21.654Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-07T07:48:47.403Z",
+    "updatedBy": "alper"
   },
   {
     "id": "pg-84",
