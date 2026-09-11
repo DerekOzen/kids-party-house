@@ -1416,11 +1416,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "published",
-    "updatedAt": "2026-09-07T03:17:38.373Z",
-    "updatedBy": "murtaza",
+    "status": "deleted",
+    "updatedAt": "2026-09-11T10:07:10.893Z",
+    "updatedBy": "derek",
     "createdAt": "2026-09-04T02:25:55.243Z",
     "createdBy": "joshua",
-    "isHome": true
+    "isHome": false
   }
 ]
