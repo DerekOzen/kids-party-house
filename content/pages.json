@@ -9,9 +9,9 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "draft",
-    "updatedAt": "2026-09-11T10:14:17.308Z",
-    "updatedBy": "derek",
+    "status": "deleted",
+    "updatedAt": "2026-09-16T02:26:40.639Z",
+    "updatedBy": "vipin",
     "createdAt": "2026-09-02T10:19:01.203Z",
     "createdBy": "alper",
     "isHome": false
