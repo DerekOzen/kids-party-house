@@ -251,11 +251,12 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-07T03:55:25.829Z",
-    "updatedBy": "murtaza"
+    "updatedAt": "2026-09-16T02:31:20.613Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-17",
