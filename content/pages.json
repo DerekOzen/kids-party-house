@@ -1023,9 +1023,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T06:40:16.688Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T06:31:55.344Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-whittlesea-hero-cb9e2169.jpg",
+    "featuredImageAlt": "Children in cowboy hats playing lasso rope games near hay bales in Whittlesea with Kids Party House event hire team."
   },
   {
     "id": "pg-59",
