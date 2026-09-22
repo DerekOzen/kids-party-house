@@ -928,9 +928,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T06:31:33.362Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T03:46:42.727Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-greater-dandenong-hero-5abd77e9.jpg",
+    "featuredImageAlt": "Children watching a magician in a purple jacket link metal rings during a party in Greater Dandenong by Kids Party House."
   },
   {
     "id": "pg-54",
