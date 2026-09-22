@@ -1213,9 +1213,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T06:55:44.003Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T23:59:42.554Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-swan-hero-b4a4003a.jpg",
+    "featuredImageAlt": "A children's entertainer in a medieval princess gown leading a treasure hunt game with kids outdoors in Swan Valley."
   },
   {
     "id": "pg-69",
