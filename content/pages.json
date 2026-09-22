@@ -605,9 +605,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T04:44:27.963Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T02:54:39.644Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-penrith-hero-d3ec508c.jpg",
+    "featuredImageAlt": "Children and a party host participating in a sack race on a grassy park lawn at a Kids Party House event in Penrith."
   },
   {
     "id": "pg-37",
