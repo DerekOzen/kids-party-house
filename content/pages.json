@@ -1004,9 +1004,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T06:38:02.480Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T06:24:45.727Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-mornington-peninsula-hero-d6467086.jpg",
+    "featuredImageAlt": "Young girls with magnifying glasses exploring leaves with a fairy host in Mornington Peninsula by Kids Party House hire."
   },
   {
     "id": "pg-58",
