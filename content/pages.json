@@ -510,9 +510,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T09:05:49.799Z",
-    "updatedBy": "vipin",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T02:16:32.277Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-hornsby-hero-c1284206.jpg",
+    "featuredImageAlt": "Children watching a live wooden puppet stage show hosted outdoors by Kids Party House in Hornsby."
   },
   {
     "id": "pg-32",
