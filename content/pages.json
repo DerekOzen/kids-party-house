@@ -909,9 +909,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T06:30:02.894Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T03:44:19.101Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-geelong-hero-3b395d3f.jpg",
+    "featuredImageAlt": "Young girl balancing a spinning plate on a stick with a circus entertainer outdoors in Geelong by Kids Party House."
   },
   {
     "id": "pg-53",
