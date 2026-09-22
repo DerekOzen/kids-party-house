@@ -757,9 +757,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T05:05:21.974Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T03:21:17.761Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-logan-hero-6678ee95.jpg",
+    "featuredImageAlt": "Young boy getting a lightning bolt face paint design at a Kids Party House children's entertainment event in Logan."
   },
   {
     "id": "pg-45",
