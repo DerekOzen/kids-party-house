@@ -890,9 +890,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T06:28:25.558Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T03:42:06.524Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-casey-hero-0dbe2a60.jpg",
+    "featuredImageAlt": "Children playing with purple ribbon wands alongside a princess host in a garden setting in Casey by Kids Party House."
   },
   {
     "id": "pg-52",
