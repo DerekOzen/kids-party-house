@@ -643,9 +643,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T04:48:56.992Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T03:02:45.647Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-sydney-hero-1343e9dd.jpg",
+    "featuredImageAlt": "Magician doing a top hat trick for kids by Sydney Harbour for Kids Party House"
   },
   {
     "id": "pg-39",
