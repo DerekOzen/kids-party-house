@@ -434,9 +434,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T00:38:05.463Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T02:00:37.115Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-blacktown-hero-2cb23490.jpg",
+    "featuredImageAlt": "Children playing a rainbow parachute game with colorful balls on a grass park field led by an entertainer for a Kids Party House event in Blacktown."
   },
   {
     "id": "pg-28",
