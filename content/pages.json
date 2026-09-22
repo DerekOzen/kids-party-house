@@ -567,9 +567,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T03:49:34.908Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T02:48:39.787Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-northern-beaches-hero-2fa6ee2d.jpg",
+    "featuredImageAlt": "Young girl celebrating her birthday with friends around a table with a birthday cake at an outdoor Kids Party House event overlooking the Northern Beaches."
   },
   {
     "id": "pg-35",
