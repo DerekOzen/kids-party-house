@@ -1137,9 +1137,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T06:48:53.987Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T23:44:09.924Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-mandurah-hero-8c39780c.jpg",
+    "featuredImageAlt": "Children playing a game outdoors with a pirate entertainer from Kids Party House during a birthday party in Mandurah."
   },
   {
     "id": "pg-65",
