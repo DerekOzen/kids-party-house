@@ -985,9 +985,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T06:36:38.501Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T03:57:48.359Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-monash-hero-4b996bf8.jpg",
+    "featuredImageAlt": "Children watching a scientist entertainer create smoky dry ice reactions at a Monash venue by Kids Party House"
   },
   {
     "id": "pg-57",
