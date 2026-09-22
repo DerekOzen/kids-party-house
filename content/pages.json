@@ -852,9 +852,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-07T01:48:41.289Z",
-    "updatedBy": "alper",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T03:34:56.768Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-house-logo-7cb8d35c.jpg",
+    "featuredImageAlt": "Kids Party House company logo for children's party entertainment and hire services"
   },
   {
     "id": "pg-50",
