@@ -548,9 +548,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T03:47:14.934Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T02:21:43.768Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-newcastle-hero-63880480.jpg",
+    "featuredImageAlt": "Kids party entertainer in a rainbow tutu creating giant bubbles for excited children outdoors at a Kids Party House event in Newcastle."
   },
   {
     "id": "pg-34",
