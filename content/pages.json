@@ -947,9 +947,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T06:33:14.876Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T03:49:52.290Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-hume-hero-32a52de4.jpg",
+    "featuredImageAlt": "Superhero entertainer guiding kids throwing soft rocks in an outdoor park game in Hume by Kids Party House"
   },
   {
     "id": "pg-55",
