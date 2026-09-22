@@ -1042,9 +1042,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T06:42:07.600Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T06:33:56.063Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-wyndham-hero-0d580c36.jpg",
+    "featuredImageAlt": "Children and superhero entertainers playing a tug-of-war boulder challenge on a park lawn in Wyndham by Kids Party House."
   },
   {
     "id": "pg-60",
