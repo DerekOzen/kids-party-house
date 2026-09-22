@@ -472,9 +472,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T01:09:42.722Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T02:07:40.092Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-canterbury-bankstown-hero-d0a92862.jpg",
+    "featuredImageAlt": "Professional face painter applying a purple butterfly design to a young girl's face at a Kids Party House event in Canterbury-Bankstown."
   },
   {
     "id": "pg-30",
