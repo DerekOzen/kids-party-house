@@ -1080,9 +1080,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T06:43:52.279Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T06:37:05.880Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-canning-hero-b8ad450f.jpg",
+    "featuredImageAlt": "Children sitting outdoors making flower crowns with a fairy host in green gown in Canning by Kids Party House party"
   },
   {
     "id": "pg-62",
