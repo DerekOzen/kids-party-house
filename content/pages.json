@@ -966,9 +966,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T06:35:02.610Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T03:52:17.809Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-melbourne-hero-57c41b67.jpg",
+    "featuredImageAlt": "Children dancing with scarves at a silent disco party hosted by a live DJ in Melbourne by Kids Party House"
   },
   {
     "id": "pg-56",
