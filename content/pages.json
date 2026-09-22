@@ -1194,9 +1194,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T06:54:11.053Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T23:57:11.271Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-stirling-hero-c0e396a2.jpg",
+    "featuredImageAlt": "A children's entertainer performing a live puppet show with animal hand puppets for a seated group of kids in Stirling."
   },
   {
     "id": "pg-68",
