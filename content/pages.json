@@ -624,9 +624,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T04:51:20.623Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T02:59:49.268Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-sutherland-shire-hero-9ce93042.jpg",
+    "featuredImageAlt": "Balloon twister entertaining kids at a Sutherland Shire party by Kids Party House"
   },
   {
     "id": "pg-38",
