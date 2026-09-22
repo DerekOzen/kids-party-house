@@ -833,9 +833,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T06:25:07.928Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T03:31:20.343Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-toowoomba-hero-dae44c7c.jpg",
+    "featuredImageAlt": "Children balancing colorful spinning plates on sticks with a party entertainer outdoors in Toowoomba by Kids Party House."
   },
   {
     "id": "pg-49",
