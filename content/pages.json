@@ -662,9 +662,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-09T00:41:15.155Z",
-    "updatedBy": "mohseen",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T03:04:01.703Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-wollongong-hero-53becb6e.jpg",
+    "featuredImageAlt": "Kids magician entertainment and party hire service in Sydney Harbour by Kids Party House for children's events."
   },
   {
     "id": "pg-40",
