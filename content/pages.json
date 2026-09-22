@@ -795,9 +795,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T05:22:05.975Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T03:26:20.053Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-redlands-hero-8c63335a.jpg",
+    "featuredImageAlt": "Mermaid entertainer dancing with ribbons alongside young girls outdoors in Redlands by Kids Party House party team"
   },
   {
     "id": "pg-47",
