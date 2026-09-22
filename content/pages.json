@@ -1175,9 +1175,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T06:52:38.272Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T23:54:04.963Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-rockingham-hero-4f1a404d.jpg",
+    "featuredImageAlt": "A superhero character entertainer running an outdoor obstacle course game with kids during a party in Rockingham."
   },
   {
     "id": "pg-67",
