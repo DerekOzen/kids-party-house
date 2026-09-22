@@ -1,13 +1,16 @@
 {
   "name": "Kids Party House",
-  "email": "mia@myeventmatch.com",
-  "suburb": "",
-  "state": "",
+  "email": "info@kidspartyhouse.com.au",
+  "suburb": "Wetherill Park",
+  "state": "NSW",
   "legalName": "Kids Party House",
   "country": "AU",
   "areaServed": "Australia",
   "url": "https://kidspartyhouse.com.au/",
-  "openingHours": "Mon–Fri 9am–5pm",
+  "openingHours": "Mon–Sat 9am–5pm",
   "priceRange": "$-$$$",
-  "image": "https://kidspartyhouse.com.au/uploads/kids-party-house-when-to-book-5bff5779.jpg"
+  "image": "https://kidspartyhouse.com.au/uploads/kids-party-house-when-to-book-5bff5779.jpg",
+  "phone": "N/A",
+  "streetAddress": "PO Box 6330, 379 Victoria St",
+  "postcode": "2164"
 }
