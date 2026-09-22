@@ -1156,9 +1156,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T09:22:24.681Z",
-    "updatedBy": "vipin",
-    "category": "Locations"
+    "updatedAt": "2026-09-22T23:49:38.962Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-perth-hero-8eed8528.jpg",
+    "featuredImageAlt": "A children's magician in a red ringmaster jacket performing a magic trick with a ring and colorful scarf for kids in Perth."
   },
   {
     "id": "pg-66",
