@@ -1232,9 +1232,11 @@
     "status": "published",
     "createdAt": "2026-09-04T02:12:14.614Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T06:56:28.659Z",
-    "updatedBy": "kritesh",
-    "category": "Locations"
+    "updatedAt": "2026-09-23T00:02:53.418Z",
+    "updatedBy": "gabriel",
+    "category": "Locations",
+    "featuredImage": "/uploads/kids-party-wanneroo-hero-c8e5b695.jpg",
+    "featuredImageAlt": "Toddlers and young children playing with soft play equipment and popping bubbles at a backyard birthday party setup in Wanneroo."
   },
   {
     "id": "pg-70",
