@@ -27,11 +27,13 @@
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
     "status": "published",
-    "updatedAt": "2026-09-11T13:13:45.808Z",
-    "updatedBy": "alper",
+    "updatedAt": "2026-09-23T00:32:39.390Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-09-02T10:20:11.507Z",
     "createdBy": "alper",
-    "noindex": true
+    "noindex": true,
+    "featuredImage": "/uploads/kids-party-house-logo-7cb8d35c.jpg",
+    "featuredImageAlt": "Kids Party House company logo for children's party entertainment and hire services"
   },
   {
     "id": "pg-3",
