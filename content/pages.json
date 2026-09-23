@@ -208,8 +208,10 @@
     "status": "published",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-08T03:17:06.385Z",
-    "updatedBy": "murtaza"
+    "updatedAt": "2026-09-23T00:49:01.368Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/face-painters-hero-0484d04d.jpg",
+    "featuredImageAlt": "A professional face painter carefully applying a purple and pink butterfly design onto a young girl's face at a birthday party."
   },
   {
     "id": "pg-13",
