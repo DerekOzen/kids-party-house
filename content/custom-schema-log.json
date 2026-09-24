@@ -1,6 +1,423 @@
 {
   "batches": [
     {
+      "batchId": "csg-muez6k98-ab4v",
+      "at": "2026-09-24T03:31:39.404Z",
+      "count": 82,
+      "changes": [
+        {
+          "path": "/",
+          "oldRecordId": "SCHEMA-5BBB7CFD",
+          "newRecordId": "SCHEMA-5BBB7CFD"
+        },
+        {
+          "path": "/about-us",
+          "oldRecordId": "SCHEMA-1A221AE7",
+          "newRecordId": "SCHEMA-1A221AE7"
+        },
+        {
+          "path": "/contact-us",
+          "oldRecordId": "SCHEMA-38CA54DE",
+          "newRecordId": "SCHEMA-38CA54DE"
+        },
+        {
+          "path": "/get-quotes",
+          "oldRecordId": "SCHEMA-588FA70E",
+          "newRecordId": "SCHEMA-588FA70E"
+        },
+        {
+          "path": "/face-painters",
+          "oldRecordId": "SCHEMA-B55A390E",
+          "newRecordId": "SCHEMA-B55A390E"
+        },
+        {
+          "path": "/balloon-twisters",
+          "oldRecordId": "SCHEMA-2C15F6D6",
+          "newRecordId": "SCHEMA-2C15F6D6"
+        },
+        {
+          "path": "/kids-magicians",
+          "oldRecordId": "SCHEMA-63513C10",
+          "newRecordId": "SCHEMA-63513C10"
+        },
+        {
+          "path": "/character-entertainers",
+          "oldRecordId": "SCHEMA-99D5D5DB",
+          "newRecordId": "SCHEMA-99D5D5DB"
+        },
+        {
+          "path": "/princess-superhero-parties",
+          "oldRecordId": "SCHEMA-BA6D7E6B",
+          "newRecordId": "SCHEMA-BA6D7E6B"
+        },
+        {
+          "path": "/kids-party-hosts",
+          "oldRecordId": "SCHEMA-6393E582",
+          "newRecordId": "SCHEMA-6393E582"
+        },
+        {
+          "path": "/kids-djs-disco-parties",
+          "oldRecordId": "SCHEMA-72F40991",
+          "newRecordId": "SCHEMA-72F40991"
+        },
+        {
+          "path": "/animal-petting-zoo-parties",
+          "oldRecordId": "SCHEMA-71326AEA",
+          "newRecordId": "SCHEMA-71326AEA"
+        },
+        {
+          "path": "/soft-play-hire",
+          "oldRecordId": "SCHEMA-E29576DD",
+          "newRecordId": "SCHEMA-E29576DD"
+        },
+        {
+          "path": "/jumping-castle-hire",
+          "oldRecordId": "SCHEMA-90E76EE5",
+          "newRecordId": "SCHEMA-90E76EE5"
+        },
+        {
+          "path": "/inflatable-hire",
+          "oldRecordId": "SCHEMA-E6BE695A",
+          "newRecordId": "SCHEMA-E6BE695A"
+        },
+        {
+          "path": "/ball-pit-hire",
+          "oldRecordId": "SCHEMA-ED4A6598",
+          "newRecordId": "SCHEMA-ED4A6598"
+        },
+        {
+          "path": "/toddler-play-hire",
+          "oldRecordId": "SCHEMA-696B9E9A",
+          "newRecordId": "SCHEMA-696B9E9A"
+        },
+        {
+          "path": "/kids-party-games",
+          "oldRecordId": "SCHEMA-42043426",
+          "newRecordId": "SCHEMA-42043426"
+        },
+        {
+          "path": "/kids-birthday-parties",
+          "oldRecordId": "SCHEMA-EAD35B2A",
+          "newRecordId": "SCHEMA-EAD35B2A"
+        },
+        {
+          "path": "/first-birthday-parties",
+          "oldRecordId": "SCHEMA-8DB7BF4B",
+          "newRecordId": "SCHEMA-8DB7BF4B"
+        },
+        {
+          "path": "/toddler-birthday-parties",
+          "oldRecordId": "SCHEMA-68BE5FA0",
+          "newRecordId": "SCHEMA-68BE5FA0"
+        },
+        {
+          "path": "/family-fun-days",
+          "oldRecordId": "SCHEMA-C9C331DF",
+          "newRecordId": "SCHEMA-C9C331DF"
+        },
+        {
+          "path": "/corporate-kids-events",
+          "oldRecordId": "SCHEMA-AFD49602",
+          "newRecordId": "SCHEMA-AFD49602"
+        },
+        {
+          "path": "/school-preschool-events",
+          "oldRecordId": "SCHEMA-DDA8E6F8",
+          "newRecordId": "SCHEMA-DDA8E6F8"
+        },
+        {
+          "path": "/kids-party-entertainers",
+          "oldRecordId": "SCHEMA-6E12AC6D",
+          "newRecordId": "SCHEMA-6E12AC6D"
+        },
+        {
+          "path": "/kids-party-hire",
+          "oldRecordId": "SCHEMA-B702A343",
+          "newRecordId": "SCHEMA-B702A343"
+        },
+        {
+          "path": "/party-entertainment",
+          "oldRecordId": "SCHEMA-E24CE652",
+          "newRecordId": "SCHEMA-E24CE652"
+        },
+        {
+          "path": "/play-party-hire",
+          "oldRecordId": "SCHEMA-59A9D194",
+          "newRecordId": "SCHEMA-59A9D194"
+        },
+        {
+          "path": "/party-types",
+          "oldRecordId": "SCHEMA-A2ED9262",
+          "newRecordId": "SCHEMA-A2ED9262"
+        },
+        {
+          "path": "/party-ideas-guides",
+          "oldRecordId": "SCHEMA-8BD191F1",
+          "newRecordId": "SCHEMA-8BD191F1"
+        },
+        {
+          "path": "/party-ideas-guides/cost-guide",
+          "oldRecordId": "SCHEMA-C2101DB6",
+          "newRecordId": "SCHEMA-C2101DB6"
+        },
+        {
+          "path": "/party-ideas-guides/age-suitability",
+          "oldRecordId": "SCHEMA-CF5F9547",
+          "newRecordId": "SCHEMA-CF5F9547"
+        },
+        {
+          "path": "/party-ideas-guides/safety-setup",
+          "oldRecordId": "SCHEMA-BC7BB3EE",
+          "newRecordId": "SCHEMA-BC7BB3EE"
+        },
+        {
+          "path": "/privacy-policy",
+          "oldRecordId": "SCHEMA-C6653957",
+          "newRecordId": "SCHEMA-C6653957"
+        },
+        {
+          "path": "/terms",
+          "oldRecordId": "SCHEMA-6BB7033A",
+          "newRecordId": "SCHEMA-6BB7033A"
+        },
+        {
+          "path": "/disclaimer",
+          "oldRecordId": "SCHEMA-385FE56B",
+          "newRecordId": "SCHEMA-385FE56B"
+        },
+        {
+          "path": "/kids-party-house-thank-you",
+          "oldRecordId": "SCHEMA-610ABF69",
+          "newRecordId": "SCHEMA-610ABF69"
+        },
+        {
+          "path": "/locations",
+          "oldRecordId": "SCHEMA-FC29B09B",
+          "newRecordId": "SCHEMA-FC29B09B"
+        },
+        {
+          "path": "/locations/nsw",
+          "oldRecordId": "SCHEMA-8AF4BAA3",
+          "newRecordId": "SCHEMA-8AF4BAA3"
+        },
+        {
+          "path": "/locations/nsw/kids-party-hire-sydney",
+          "oldRecordId": "SCHEMA-C47808F8",
+          "newRecordId": "SCHEMA-C47808F8"
+        },
+        {
+          "path": "/locations/nsw/kids-party-hire-parramatta",
+          "oldRecordId": "SCHEMA-E6BD23A8",
+          "newRecordId": "SCHEMA-E6BD23A8"
+        },
+        {
+          "path": "/locations/nsw/kids-party-hire-canterbury-bankstown",
+          "oldRecordId": "SCHEMA-6569F998",
+          "newRecordId": "SCHEMA-6569F998"
+        },
+        {
+          "path": "/locations/nsw/kids-party-hire-blacktown",
+          "oldRecordId": "SCHEMA-54EC1C65",
+          "newRecordId": "SCHEMA-54EC1C65"
+        },
+        {
+          "path": "/locations/nsw/kids-party-hire-liverpool",
+          "oldRecordId": "SCHEMA-93389447",
+          "newRecordId": "SCHEMA-93389447"
+        },
+        {
+          "path": "/locations/nsw/kids-party-hire-campbelltown",
+          "oldRecordId": "SCHEMA-F8FADCFC",
+          "newRecordId": "SCHEMA-F8FADCFC"
+        },
+        {
+          "path": "/locations/nsw/kids-party-hire-penrith",
+          "oldRecordId": "SCHEMA-E4F739BD",
+          "newRecordId": "SCHEMA-E4F739BD"
+        },
+        {
+          "path": "/locations/nsw/kids-party-hire-hornsby",
+          "oldRecordId": "SCHEMA-23DD5DBB",
+          "newRecordId": "SCHEMA-23DD5DBB"
+        },
+        {
+          "path": "/locations/nsw/kids-party-hire-northern-beaches",
+          "oldRecordId": "SCHEMA-B4810FAD",
+          "newRecordId": "SCHEMA-B4810FAD"
+        },
+        {
+          "path": "/locations/nsw/kids-party-hire-sutherland-shire",
+          "oldRecordId": "SCHEMA-80FFC7DA",
+          "newRecordId": "SCHEMA-80FFC7DA"
+        },
+        {
+          "path": "/locations/nsw/kids-party-hire-newcastle",
+          "oldRecordId": "SCHEMA-296BE351",
+          "newRecordId": "SCHEMA-296BE351"
+        },
+        {
+          "path": "/locations/nsw/kids/party/hire/wollongong",
+          "oldRecordId": "SCHEMA-01A47400",
+          "newRecordId": "SCHEMA-01A47400"
+        },
+        {
+          "path": "/locations/nsw/kids-party-hire-central-coast",
+          "oldRecordId": "SCHEMA-4F499744",
+          "newRecordId": "SCHEMA-4F499744"
+        },
+        {
+          "path": "/locations/qld",
+          "oldRecordId": "SCHEMA-0244703A",
+          "newRecordId": "SCHEMA-0244703A"
+        },
+        {
+          "path": "/locations/qld/kids-party-hire-brisbane",
+          "oldRecordId": "SCHEMA-6A21AE3F",
+          "newRecordId": "SCHEMA-6A21AE3F"
+        },
+        {
+          "path": "/locations/qld/kids-party-hire-logan",
+          "oldRecordId": "SCHEMA-236EE496",
+          "newRecordId": "SCHEMA-236EE496"
+        },
+        {
+          "path": "/locations/qld/kids-party-hire-ipswich",
+          "oldRecordId": "SCHEMA-A3957FA6",
+          "newRecordId": "SCHEMA-A3957FA6"
+        },
+        {
+          "path": "/locations/qld/kids-party-hire-moreton-bay",
+          "oldRecordId": "SCHEMA-B52CEF07",
+          "newRecordId": "SCHEMA-B52CEF07"
+        },
+        {
+          "path": "/locations/qld/kids-party-hire-redlands",
+          "oldRecordId": "SCHEMA-4B22E4BD",
+          "newRecordId": "SCHEMA-4B22E4BD"
+        },
+        {
+          "path": "/locations/qld/kids-party-hire-gold-coast",
+          "oldRecordId": "SCHEMA-E2515419",
+          "newRecordId": "SCHEMA-E2515419"
+        },
+        {
+          "path": "/locations/qld/kids-party-hire-sunshine-coast",
+          "oldRecordId": "SCHEMA-E700F2F9",
+          "newRecordId": "SCHEMA-E700F2F9"
+        },
+        {
+          "path": "/locations/qld/kids-party-hire-toowoomba",
+          "oldRecordId": "SCHEMA-8DDB623D",
+          "newRecordId": "SCHEMA-8DDB623D"
+        },
+        {
+          "path": "/locations/vic",
+          "oldRecordId": "SCHEMA-D13D3D0A",
+          "newRecordId": "SCHEMA-D13D3D0A"
+        },
+        {
+          "path": "/locations/vic/kids-party-hire-melbourne",
+          "oldRecordId": "SCHEMA-A4C41773",
+          "newRecordId": "SCHEMA-A4C41773"
+        },
+        {
+          "path": "/locations/vic/kids-party-hire-monash",
+          "oldRecordId": "SCHEMA-DF3A0332",
+          "newRecordId": "SCHEMA-DF3A0332"
+        },
+        {
+          "path": "/locations/vic/kids-party-hire-greater-dandenong",
+          "oldRecordId": "SCHEMA-1D7B5363",
+          "newRecordId": "SCHEMA-1D7B5363"
+        },
+        {
+          "path": "/locations/vic/kids-party-hire-brimbank",
+          "oldRecordId": "SCHEMA-A2F57A5B",
+          "newRecordId": "SCHEMA-A2F57A5B"
+        },
+        {
+          "path": "/locations/vic/kids-party-hire-casey",
+          "oldRecordId": "SCHEMA-E120DB86",
+          "newRecordId": "SCHEMA-E120DB86"
+        },
+        {
+          "path": "/locations/vic/kids-party-hire-wyndham",
+          "oldRecordId": "SCHEMA-6C1BCB54",
+          "newRecordId": "SCHEMA-6C1BCB54"
+        },
+        {
+          "path": "/locations/vic/kids-party-hire-hume",
+          "oldRecordId": "SCHEMA-B32BA3E4",
+          "newRecordId": "SCHEMA-B32BA3E4"
+        },
+        {
+          "path": "/locations/vic/kids-party-hire-whittlesea",
+          "oldRecordId": "SCHEMA-2ED677A6",
+          "newRecordId": "SCHEMA-2ED677A6"
+        },
+        {
+          "path": "/locations/vic/kids-party-hire-geelong",
+          "oldRecordId": "SCHEMA-FBF952FD",
+          "newRecordId": "SCHEMA-FBF952FD"
+        },
+        {
+          "path": "/locations/vic/kids-party-hire-mornington-peninsula",
+          "oldRecordId": "SCHEMA-4D07054A",
+          "newRecordId": "SCHEMA-4D07054A"
+        },
+        {
+          "path": "/locations/wa",
+          "oldRecordId": "SCHEMA-DA99AD28",
+          "newRecordId": "SCHEMA-DA99AD28"
+        },
+        {
+          "path": "/locations/wa/kids-party-hire-perth",
+          "oldRecordId": "SCHEMA-F2E7962E",
+          "newRecordId": "SCHEMA-F2E7962E"
+        },
+        {
+          "path": "/locations/wa/kids-party-hire-stirling",
+          "oldRecordId": "SCHEMA-C2282FA8",
+          "newRecordId": "SCHEMA-C2282FA8"
+        },
+        {
+          "path": "/locations/wa/kids-party-hire-joondalup",
+          "oldRecordId": "SCHEMA-9A8BD4AE",
+          "newRecordId": "SCHEMA-9A8BD4AE"
+        },
+        {
+          "path": "/locations/wa/kids-party-hire-wanneroo",
+          "oldRecordId": "SCHEMA-F5984ED0",
+          "newRecordId": "SCHEMA-F5984ED0"
+        },
+        {
+          "path": "/locations/wa/kids-party-hire-swan",
+          "oldRecordId": "SCHEMA-3115907C",
+          "newRecordId": "SCHEMA-3115907C"
+        },
+        {
+          "path": "/locations/wa/kids-party-hire-canning",
+          "oldRecordId": "SCHEMA-114760DC",
+          "newRecordId": "SCHEMA-114760DC"
+        },
+        {
+          "path": "/locations/wa/kids-party-hire-cockburn",
+          "oldRecordId": "SCHEMA-553019E6",
+          "newRecordId": "SCHEMA-553019E6"
+        },
+        {
+          "path": "/locations/wa/kids-party-hire-rockingham",
+          "oldRecordId": "SCHEMA-314DE774",
+          "newRecordId": "SCHEMA-314DE774"
+        },
+        {
+          "path": "/locations/wa/kids-party-hire-mandurah",
+          "oldRecordId": "SCHEMA-ED2D373B",
+          "newRecordId": "SCHEMA-ED2D373B"
+        }
+      ]
+    },
+    {
       "batchId": "csg-mu3grth0-25mc",
       "at": "2026-09-16T02:10:50.484Z",
       "count": 83,
