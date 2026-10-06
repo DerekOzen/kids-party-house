@@ -1609,21 +1609,24 @@
   },
   {
     "id": "pg-88",
-    "path": "/disclaimer-copy",
+    "path": "/suburb-data",
     "type": "page",
-    "title": "Disclaimer | Kids Party House (Copy)",
+    "title": "Suburb data (form helper)",
     "seoTitle": "Disclaimer | Kids Party House",
     "seoDescription": "Important information about the Kids Party House platform, the suppliers listed and the general guidance published on this site.",
     "layout": "mockup",
-    "headerPartId": "header-5",
-    "footerPartId": "footer-5",
-    "status": "draft",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "published",
     "createdAt": "2026-10-06T12:33:00.219Z",
     "createdBy": "mia",
-    "updatedAt": "2026-10-06T12:33:00.219Z",
+    "updatedAt": "2026-10-06T12:34:56.644Z",
     "updatedBy": "mia",
     "featuredImage": "/uploads/kids-party-house-logo-7cb8d35c.jpg",
     "featuredImageAlt": "Kids Party House company logo for children's party entertainment and hire services",
-    "isHome": false
+    "isHome": false,
+    "category": "Other",
+    "sidebarId": "__none__",
+    "noindex": true
   }
 ]
