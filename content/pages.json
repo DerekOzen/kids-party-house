@@ -1628,5 +1628,53 @@
     "category": "Other",
     "sidebarId": "__none__",
     "noindex": true
+  },
+  {
+    "id": "pg-89",
+    "path": "/blog/how-long-should-a-kids-birthday-party-be",
+    "type": "post",
+    "title": "How Long Should a Kids Birthday Party Be? | Kids Party House",
+    "seoTitle": "How Long Should a Kids Birthday Party Be? | Kids Party House",
+    "seoDescription": "How long a kids birthday party should run, by age, from one to twelve. Start and finish times that work, and where the entertainment belongs.",
+    "layout": "mockup",
+    "headerPartId": "header-5",
+    "footerPartId": "footer-5",
+    "status": "draft",
+    "createdAt": "2026-10-19T01:23:16.232Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-10-19T01:23:16.232Z",
+    "updatedBy": "gabriel"
+  },
+  {
+    "id": "pg-90",
+    "path": "/blog/what-to-ask-before-booking-a-kids-party-entertainer",
+    "type": "post",
+    "title": "What to Ask Before Booking a Kids Entertainer | Kids Party House",
+    "seoTitle": "What to Ask Before Booking a Kids Entertainer | Kids Party House",
+    "seoDescription": "The questions that separate two kids party entertainer quotes: run time, age range, what they bring, insurance, space and wet weather. Free guide.",
+    "layout": "mockup",
+    "headerPartId": "header-5",
+    "footerPartId": "footer-5",
+    "status": "draft",
+    "createdAt": "2026-10-19T01:23:16.232Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-10-19T01:23:16.232Z",
+    "updatedBy": "gabriel"
+  },
+  {
+    "id": "pg-91",
+    "path": "/blog/birthday-party-ideas-for-9-to-12-year-olds",
+    "type": "post",
+    "title": "Birthday Party Ideas for 9 to 12 Year Olds | Kids Party House",
+    "seoTitle": "Birthday Party Ideas for 9 to 12 Year Olds | Kids Party House",
+    "seoDescription": "What works for a nine to twelve year old birthday when magicians and face painting no longer land. Discos, inflatables, games and structured activities.",
+    "layout": "mockup",
+    "headerPartId": "header-5",
+    "footerPartId": "footer-5",
+    "status": "draft",
+    "createdAt": "2026-10-19T01:23:16.232Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-10-19T01:23:16.232Z",
+    "updatedBy": "gabriel"
   }
 ]
