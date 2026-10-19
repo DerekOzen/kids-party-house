@@ -1682,5 +1682,21 @@
     "updatedBy": "gabriel",
     "featuredImage": "/uploads/birthday-party-ideas-for-9-to-12-year-ol-2f5a6d46.jpg",
     "featuredImageAlt": "Backyard set up for an older kids birthday party with an inflatable obstacle course, giant lawn games and a decorated party table"
+  },
+  {
+    "id": "pg-92",
+    "path": "/blogs",
+    "type": "post",
+    "title": "Kids Party Planning Blog and Tips | Kids Party House",
+    "seoTitle": "Kids Party Planning Blog and Tips | Kids Party House",
+    "seoDescription": "Kids party planning advice for Australian parents: how long a party should run, what to ask an entertainer before booking, and ideas for 9 to 12 year olds.",
+    "layout": "mockup",
+    "headerPartId": "header-5",
+    "footerPartId": "footer-5",
+    "status": "draft",
+    "createdAt": "2026-10-19T01:58:14.778Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-10-19T01:58:14.778Z",
+    "updatedBy": "gabriel"
   }
 ]
