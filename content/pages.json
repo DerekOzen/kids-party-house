@@ -1655,13 +1655,15 @@
     "seoTitle": "What to Ask Before Booking a Kids Entertainer | Kids Party House",
     "seoDescription": "The questions that separate two kids party entertainer quotes: run time, age range, what they bring, insurance, space and wet weather. Free guide.",
     "layout": "mockup",
-    "headerPartId": "header-5",
+    "headerPartId": null,
     "footerPartId": "footer-5",
     "status": "draft",
     "createdAt": "2026-10-19T01:23:16.232Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-10-19T01:23:16.232Z",
-    "updatedBy": "gabriel"
+    "updatedAt": "2026-10-19T01:30:25.742Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/what-to-ask-before-you-book-a-kids-party-7aab0b5f.jpg",
+    "featuredImageAlt": "Notebook, pen and phone on a table beside party hats and ribbon while planning a kids party booking"
   },
   {
     "id": "pg-91",
