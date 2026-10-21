@@ -330,13 +330,14 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-07T07:32:29.662Z",
-    "updatedBy": "mia",
+    "updatedAt": "2026-10-21T06:40:52.131Z",
+    "updatedBy": "vipin",
     "featuredImage": "/uploads/kids-birthday-parties-hero-72b075a5.jpg",
-    "featuredImageAlt": "A group of happy children gathered around an outdoor party table celebrating a birthday with a birthday cake and party treats."
+    "featuredImageAlt": "A group of happy children gathered around an outdoor party table celebrating a birthday with a birthday cake and party treats.",
+    "isHome": false
   },
   {
     "id": "pg-20",
