@@ -1719,5 +1719,21 @@
     "featuredImage": "/uploads/kids-party-entertainers-hero-a4ff1936.jpg",
     "featuredImageAlt": "A kids party entertainer in a genie outfit leading a group of excited children in games and activities at a indoor party setup.",
     "isHome": false
+  },
+  {
+    "id": "pg-94",
+    "path": "/kids-party-entertainers-australia-kids-party-house",
+    "type": "page",
+    "title": "Kids Party Entertainers Australia | Kids Party House",
+    "seoTitle": "Kids Party Entertainers Australia | Kids Party House",
+    "seoDescription": "Find kids party entertainers and children's entertainers across Australia. One brief, quotes from entertainers who cover your suburb and are free on your date.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-10-21T06:17:52.419Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-10-21T06:17:52.419Z",
+    "createdBy": "vipin"
   }
 ]
