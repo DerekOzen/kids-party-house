@@ -1711,12 +1711,13 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": "footer-5",
-    "status": "draft",
-    "updatedAt": "2026-10-21T06:11:24.011Z",
+    "status": "deleted",
+    "updatedAt": "2026-10-21T06:15:08.419Z",
     "updatedBy": "vipin",
     "createdAt": "2026-10-21T06:09:03.324Z",
     "createdBy": "vipin",
     "featuredImage": "/uploads/kids-party-entertainers-hero-a4ff1936.jpg",
-    "featuredImageAlt": "A kids party entertainer in a genie outfit leading a group of excited children in games and activities at a indoor party setup."
+    "featuredImageAlt": "A kids party entertainer in a genie outfit leading a group of excited children in games and activities at a indoor party setup.",
+    "isHome": false
   }
 ]
