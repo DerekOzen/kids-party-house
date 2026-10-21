@@ -1747,12 +1747,14 @@
     "seoTitle": "Kids Birthday Party Entertainment | Kids Party House",
     "seoDescription": "Plan a kids birthday party in Australia. What to book by age, how long it should run and what it costs. Compare free quotes from entertainers and hire suppliers.",
     "layout": "mockup",
-    "headerPartId": null,
-    "footerPartId": null,
+    "headerPartId": "header-5",
+    "footerPartId": "footer-5",
     "status": "draft",
-    "updatedAt": "2026-10-21T06:36:55.024Z",
+    "updatedAt": "2026-10-21T06:38:17.508Z",
     "updatedBy": "vipin",
     "createdAt": "2026-10-21T06:36:55.024Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "featuredImageAlt": "A group of happy children gathered around an outdoor party table celebrating a birthday with a birthday cake and party treats.",
+    "featuredImage": "/uploads/kids-birthday-parties-hero-72b075a5.jpg"
   }
 ]
