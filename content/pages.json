@@ -422,13 +422,14 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-5",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-04T02:10:50.893Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-07T07:34:33.580Z",
-    "updatedBy": "mia",
+    "updatedAt": "2026-10-21T06:56:41.999Z",
+    "updatedBy": "vipin",
     "featuredImage": "/uploads/kids-party-equipment-hire-hero-1f435008.jpg",
-    "featuredImageAlt": "A friendly attendant standing behind a party food station with a pink fairy floss machine and a popcorn machine setup outdoors"
+    "featuredImageAlt": "A friendly attendant standing behind a party food station with a pink fairy floss machine and a popcorn machine setup outdoors",
+    "isHome": false
   },
   {
     "id": "pg-25",
