@@ -1776,5 +1776,53 @@
     "createdBy": "vipin",
     "featuredImageAlt": "A friendly attendant standing behind a party food station with a pink fairy floss machine and a popcorn machine setup outdoors",
     "featuredImage": "/uploads/kids-party-equipment-hire-hero-1f435008.jpg"
+  },
+  {
+    "id": "pg-97",
+    "path": "/blog/party-games-for-5-year-olds",
+    "type": "post",
+    "title": "Party Games for 5 Year Olds That Actually Work | Kids Party House",
+    "seoTitle": "Party Games for 5 Year Olds That Actually Work | Kids Party House",
+    "seoDescription": "The best party games for 5 year olds are short, fast and leave nobody out. Simple game ideas that work in the lounge room or the backyard.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": "footer-5",
+    "status": "draft",
+    "createdAt": "2026-11-09T00:10:15.178Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-11-09T00:10:15.178Z",
+    "updatedBy": "gabriel"
+  },
+  {
+    "id": "pg-98",
+    "path": "/blog/what-to-put-in-childrens-party-bags",
+    "type": "post",
+    "title": "What to Put in Childrens Party Bags Minus the Sugar | Kids Party House",
+    "seoTitle": "What to Put in Childrens Party Bags Minus the Sugar | Kids Party House",
+    "seoDescription": "Wondering what to put in childrens party bags without loading them with lollies? Here are low sugar, low junk ideas by age, plus how many to include.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": "footer-5",
+    "status": "draft",
+    "createdAt": "2026-11-09T00:10:15.178Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-11-09T00:10:15.178Z",
+    "updatedBy": "gabriel"
+  },
+  {
+    "id": "pg-99",
+    "path": "/blog/kids-party-activities",
+    "type": "post",
+    "title": "Kids Party Activities: Fill the Hours, Skip the Meltdown | Kids Party House",
+    "seoTitle": "Kids Party Activities: Fill the Hours, Skip the Meltdown | Kids Party House",
+    "seoDescription": "The best kids party activities are paced in short blocks and matched to the age group. Here is a run sheet plus indoor, outdoor and craft ideas.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": "footer-5",
+    "status": "draft",
+    "createdAt": "2026-11-09T00:10:15.178Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-11-09T00:10:15.178Z",
+    "updatedBy": "gabriel"
   }
 ]
